@@ -8,15 +8,9 @@
 
 目标页面：http://v2.bootcss.com/examples/carousel.html
 
-第一阶段：
-
 使用Bootstrap的[navbar](http://v3.bootcss.com/components/#navbar)组件实现一个类似的导航栏
 
-第二阶段：
-
 使用Bootstrap的[thumbnail](http://v3.bootcss.com/components/#thumbnails-custom-content)和[img-circle](http://v3.bootcss.com/css/#images-shapes)组件实现一个类似的内容板块
-
-第三阶段：
 
 使用Bootstrap的[carousel](http://v3.bootcss.com/javascript/#carousel)组件实现一个轮播展示
 
