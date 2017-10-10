@@ -1,12 +1,16 @@
 # 练习：使用Bootstrap制作简单页面
 
-## 练习目标
+## 需求说明:
+
+根据目标页面，在 `index.html` 中编写 HTML 代码。
+
+目标页面：http://v2.bootcss.com/examples/carousel.html
+
+## 挑战:
 
 学会使用Bootstrap UI组件制作简单的页面样式
 
-## 练习要求
-
-目标页面：http://v2.bootcss.com/examples/carousel.html
+### 要求:
 
 使用Bootstrap的[navbar](http://v3.bootcss.com/components/#navbar)组件实现一个类似的导航栏
 
@@ -16,25 +20,16 @@
 
 备注：样式不要求严格一样，功能实现即可。
 
-### 输出结果
-
-将代码库地址提交到教练指定的位置。
-
-## 如何开始：
-
-1. `git clone https://github.com/tws-practice/bootstrap-basic.git`
-2. 打开并修改index.html，完成练习。
-
 ## 学习资源
 
-CSS W3school教程：[http://www.w3school.com.cn/css/index.asp](http://www.w3school.com.cn/css/index.asp)
+1. CSS W3school教程：[http://www.w3school.com.cn/css/index.asp](http://www.w3school.com.cn/css/index.asp)
 
-Bootstrap中文文档：[http://www.bootcss.com/](http://www.bootcss.com/)
+2. Bootstrap中文文档：[http://www.bootcss.com/](http://www.bootcss.com/)
 
-CSS盒子模型（[http://www.w3school.com.cn/css/css_boxmodel.asp](http://www.w3school.com.cn/css/css_boxmodel.asp)）
+3. CSS盒子模型（[http://www.w3school.com.cn/css/css_boxmodel.asp](http://www.w3school.com.cn/css/css_boxmodel.asp)）
 
-栅格系统（[http://v3.bootcss.com/css/#grid](http://v3.bootcss.com/css/#grid)）
+4. 栅格系统（[http://v3.bootcss.com/css/#grid](http://v3.bootcss.com/css/#grid)）
 
-什么是响应式设计（[https://www.zhihu.com/question/20976405](https://www.zhihu.com/question/20976405)）
+5. 什么是响应式设计（[https://www.zhihu.com/question/20976405](https://www.zhihu.com/question/20976405)）
 
-Bootstrap UI组件使用方法（[http://v3.bootcss.com/components/](http://v3.bootcss.com/components/)）
+6. Bootstrap UI组件使用方法（[http://v3.bootcss.com/components/](http://v3.bootcss.com/components/)）
