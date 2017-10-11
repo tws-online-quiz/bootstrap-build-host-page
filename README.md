@@ -6,6 +6,8 @@
 
 目标页面：http://v2.bootcss.com/examples/carousel.html
 
+![](./mockup.png)
+
 ## 挑战:
 
 1. 运用Bootstrap栅格系统完成页面布局
