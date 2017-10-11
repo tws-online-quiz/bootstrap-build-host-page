@@ -8,10 +8,10 @@
 
 ## 挑战:
 
-1. 使用Bootstrap布局
-2. 导航栏的实现
-3. 轮播展示的实现
-4. CSS的基本使用
+1. 运用Bootstrap栅格系统完成页面布局
+2. 运用Bootstrap的[navbar](http://v3.bootcss.com/components/#navbar)组件实现导航栏
+3. 运用Bootstrap的[thumbnail](http://v3.bootcss.com/components/#thumbnails-custom-content)和[img-circle](http://v3.bootcss.com/css/#images-shapes)组件实现内容板块
+4. 运用Bootstrap的[carousel](http://v3.bootcss.com/javascript/#carousel)组件实现轮播展示
 
 ### 要求:
 
